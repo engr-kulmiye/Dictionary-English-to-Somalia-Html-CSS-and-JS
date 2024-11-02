@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .containerMe {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 450px;
+    height: 435px;
+  }
+  .form-control{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+  }
+
+  button {
+    margin: 5px;
+    padding: 10px;
+    width: 45%;
+  }
+  
